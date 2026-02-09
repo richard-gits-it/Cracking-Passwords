@@ -83,8 +83,8 @@ Kali Linux (Live USB):
   - dissect.database (Server 2025 support)
 
 Windows PC (GPU Acceleration):
-  - Hashcat 6.2.6
-  - NVIDIA GPU
+  - Hashcat 7.1.2
+  - NVIDIA GPU RTX 3060 12G
   - Processing: Billions of hashes/second
 ```
 
