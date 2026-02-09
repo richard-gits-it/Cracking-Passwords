@@ -2,7 +2,6 @@
 
 > **Educational Security Research**: Understanding offline password attacks against Windows systems
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue)]()
 [![Tools](https://img.shields.io/badge/Tools-John%20%7C%20Hashcat-red)]()
 
